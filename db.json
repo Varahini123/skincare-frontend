@@ -1,0 +1,63 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Varshini",
+      "email": "varshini@gmail.com",
+      "password": "123456"
+    }
+  ],
+
+  "products": [
+    {
+      "id": "1",
+      "name": "The Derma Co Niacinamide Serum",
+      "brand": "The Derma Co",
+      "category": "Serum",
+      "skinType": "Oily Skin",
+      "price": 499,
+      "rating": 4.7,
+      "image": "/images/derma-serum.jpg",
+      "description": "Niacinamide serum for pores, oil control and smooth skin.",
+      "benefits": ["Controls oil", "Reduces pores", "Improves texture"]
+    },
+    {
+      "id": "2",
+      "name": "Cetaphil Moisturizing Lotion",
+      "brand": "Cetaphil",
+      "category": "Moisturizer",
+      "skinType": "Dry Skin",
+      "price": 699,
+      "rating": 4.8,
+      "image": "/images/cetaphil-moisturizer.jpg",
+      "description": "Gentle moisturizing lotion for dry and sensitive skin.",
+      "benefits": ["Hydrates skin", "Softens skin", "Non greasy"]
+    },
+    {
+      "id": "3",
+      "name": "Dot & Key Vitamin C Serum",
+      "brand": "Dot & Key",
+      "category": "Serum",
+      "skinType": "All Skin Types",
+      "price": 695,
+      "rating": 4.8,
+      "image": "/images/dotkey-serum.jpg",
+      "description": "Vitamin C serum for glowing and bright skin.",
+      "benefits": ["Brightens skin", "Reduces dullness", "Improves glow"]
+    },
+    {
+      "id": "4",
+      "name": "Plum Green Tea Toner",
+      "brand": "Plum",
+      "category": "Toner",
+      "skinType": "Oily Skin",
+      "price": 390,
+      "rating": 4.5,
+      "image": "/images/plum-toner.jpg",
+      "description": "Refreshing toner for oily and acne-prone skin.",
+      "benefits": ["Controls oil", "Refreshes skin", "Tightens pores"]
+    }
+  ],
+
+  "orders": []
+}
